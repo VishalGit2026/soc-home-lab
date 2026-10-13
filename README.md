@@ -47,7 +47,7 @@ The lab simulates a real-world enterprise environment using Windows and Linux sy
 
 ##  Project Status
 
- In Progress
+Complete 
 
 This repository is continuously updated as new features, detections, dashboards, and documentation are added.
 
